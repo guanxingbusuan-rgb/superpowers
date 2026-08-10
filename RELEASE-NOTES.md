@@ -1,3 +1,12 @@
+wangling-macos 个人修改版
+
+对应仓库：https://github.com/guanxingbusuan-rgb/superpowers.git
+
+目的：
+1. 学习如何使用git进行项目开发与配置github的pat令牌
+2. 从源码安装一个skills
+
+
 # Superpowers Release Notes
 
 ## v6.2.0 (2026-07-23)
