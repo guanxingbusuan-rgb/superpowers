@@ -3,8 +3,15 @@ wangling-macos 个人修改版
 对应仓库：https://github.com/guanxingbusuan-rgb/superpowers.git
 
 目的：
-1. 学习如何使用git进行项目开发与配置github的pat令牌
-2. 从源码安装一个skills
+1. 配置github的pat令牌
+
+2. 学习如何使用git进行项目开发,基本情境：
+  - 初始化/添加个人远仓repo/添加上游远仓repo/pull更新同步/merge解决冲突
+  - add进行跟踪/commit本地提交快照/push推送个人远仓
+  - checkout创建dev分支/branch合并分支/branch删除分支
+  - 利用远仓reset回退/本地commit提交后的reset回退/restore+clean的不提交commit的回退
+
+3. 从源码安装一个agent-skills
 
 # Superpowers
 
