@@ -1,3 +1,11 @@
+wangling-macos 个人修改版
+
+对应仓库：https://github.com/guanxingbusuan-rgb/superpowers.git
+
+目的：
+1. 学习如何使用git进行项目开发与配置github的pat令牌
+2. 从源码安装一个skills
+
 # Superpowers
 
 Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.
